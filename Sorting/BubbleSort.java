@@ -1,5 +1,6 @@
 /** Sorting Algorithm 1.
-    Implemented in java.
+    Buble sort
+    Implemented in Java.
     Time complexity : O(n^2)
     @lokeshkarra
 */
@@ -8,7 +9,7 @@ import java.util.*;
 public class Bubble {
     
     public static void sort(int[] arr){
-	//This method sort elements in ascending order
+	//This method sorts elements in ascending order
         int n = arr.length;
         for(int i=0; i<n-1; i++){
             for(int j=1; j<n-i; j++){
