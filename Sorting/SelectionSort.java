@@ -1,5 +1,7 @@
 /** Sorting Algorithm 2.
-    Implemented in java.
+    Selection sort
+    Implemented in Java.
+    Time complexity : O(n^2)
     @lokeshkarra
 */
 
