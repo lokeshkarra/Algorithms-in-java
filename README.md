@@ -5,11 +5,11 @@ This contains classic algorithms written in Java.
 
             This contains the Implementation of all sorting algorithms in Java.
 
-            . a) Bubble Sort
-            . b) Selection sort
-            . c) Insertion sort
-            . d) Merge sort
-            . e) Quick sort
+            . 1) Bubble Sort
+            . 2) Selection sort
+            . 3) Insertion sort
+            . 4) Merge sort
+            . 5) Quick sort
             
             To implement these files, run the following commands in cmd.
             
