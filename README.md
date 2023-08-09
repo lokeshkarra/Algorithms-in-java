@@ -1,19 +1,21 @@
 # Algorithms-in-java
 This contains classic algorithms written in Java.
 
-[# Sorting](https://github.com/lokeshkarra/Algorithms-in-java/tree/e6b2953916f7ebc74956da641f393ee3c8f5596d/Sorting)
-This repo contains the Implementation of all sorting algorithms in Java.
-1) Bubble Sort
-2) Selection sort
-3) Insertion sort
-4) Merge sort
-5) Quick sort
+[2) Sorting](https://github.com/lokeshkarra/Algorithms-in-java/tree/e6b2953916f7ebc74956da641f393ee3c8f5596d/Sorting)
 
-To implement these files, run the following commands in cmd.
+.            This contains the Implementation of all sorting algorithms in Java.
 
- -> Eg   : To implement BubbleSort.java
- -> cmd  :  javac BubbleSort.java
- -> cmd  :  java BubbleSort
+            . a) Bubble Sort
+            . b) Selection sort
+            . c) Insertion sort
+            . d) Merge sort
+            . e) Quick sort
+            
+            .       To implement these files, run the following commands in cmd.
+            
+             -> Eg   : To implement BubbleSort.java
+             -> cmd  :  javac BubbleSort.java
+             -> cmd  :  java BubbleSort
 
 
 
