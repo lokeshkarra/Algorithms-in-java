@@ -1,7 +1,7 @@
 # Algorithms-in-java
 This contains classic algorithms written in java.
 
-[Sorting](# Sorting)
+[Sorting](#Sorting)
 This repo contains the Implementation of all sorting algorithms in Java.
 1) Bubble Sort
 2) Selection sort
