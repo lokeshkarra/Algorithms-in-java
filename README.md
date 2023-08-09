@@ -3,7 +3,7 @@ This contains classic algorithms written in Java.
 
 [2) Sorting](https://github.com/lokeshkarra/Algorithms-in-java/tree/e6b2953916f7ebc74956da641f393ee3c8f5596d/Sorting)
 
-            ,p>This contains the Implementation of all sorting algorithms in Java.<be>
+            <p>This contains the Implementation of all sorting algorithms in Java.<br>
 
             . a) Bubble Sort
             . b) Selection sort
