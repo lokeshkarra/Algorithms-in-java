@@ -5,7 +5,7 @@ This contains classic algorithms written in Java.
 
 ###            This contains the Implementation of the following sorting algorithms in Java.
 
-###            . 1) Bubble Sort
+#####            . 1) Bubble Sort
 ###            . 2) Selection sort
 ###            . 3) Insertion sort
 ###            . 4) Merge sort
